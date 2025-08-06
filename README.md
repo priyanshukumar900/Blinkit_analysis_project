@@ -1,4 +1,4 @@
-#Blinkit_Data_Analysis
+# Blinkit_Data_Analysis #
 
 Project Overview: A data analysis project centered on Blinkit's sales, customer, and inventory data, utilizing SQL and Power BI.
 
