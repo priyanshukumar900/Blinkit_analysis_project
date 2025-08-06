@@ -1,3 +1,5 @@
+#Blinkit_Data_Analysis
+
 Project Overview: A data analysis project centered on Blinkit's sales, customer, and inventory data, utilizing SQL and Power BI.
 
 SQL's Role: SQL is used for data extraction and manipulation. It enables the querying of the dataset to pull out key metrics and prepare the data for visualization.
